@@ -1,0 +1,2 @@
+graph,num_vertices,num_edges,pearson_mode_degrees_in,pearson_mode_degrees_out,mean_degree,density,mean_triangles,average_lcc
+example-graph,1000000,25000000,200,111,50,0.0000250,40,0.3

@@ -1,0 +1,2 @@
+,evaluation_set,best_params,description,rmse,mape,r2,spearman,enriched_by,partitioner
+0,validation,"{'regressor__feature_selection__features': ['2ps', 'hep100', 'crvc', 'hdrf', 'hep10', 'ne', 'dbh', '1ds', '1dd', 'hep1', '2d', 'num_partitions', 'pearson_mode_degrees_in', 'pearson_mode_degrees_out', 'mean_degree', 'density'], 'regressor__regressor__max_depth': 30, 'regressor__regressor__n_estimators': 100}",rmat-enriched-with-real,-1,-0.04363324457850215,-1,-1,0.0,all

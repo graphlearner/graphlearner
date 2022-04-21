@@ -1,0 +1,8 @@
+nohup.out
+**/__pycache__/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+quality/models/RFR-*
+quality/models/KNN-*
+quality/notebooks/SVR.nohup
+quality/serialized_models/*
