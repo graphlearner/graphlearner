@@ -1,1 +1,1 @@
-Please swith to the [submission branch](https://github.com/graphlearner/graphlearner/tree/submission)
+Please switch to the [submission branch](https://github.com/graphlearner/graphlearner/tree/submission)
